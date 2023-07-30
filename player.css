@@ -131,6 +131,18 @@
 
   .pitchfork.customAudioPlayer .titleDisplay {
     font-weight: bold;
+    text-transform: uppercase;
+    font-size: .75em;
+    /* font-weight: 500; */
+    line-height: 1.5;
+  }
+
+  .pitchfork.customAudioPlayer .artistDisplay {
+    /* font-weight: bold; */
+    text-transform: uppercase;
+    font-size: .75em;
+    font-weight: 500;
+    line-height: 1.5;
   }
 
   .pitchfork.customAudioPlayer .titleDisplay:before {
